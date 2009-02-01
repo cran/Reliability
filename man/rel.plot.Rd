@@ -63,7 +63,7 @@ Society Press, 1996.
 \url{http://www.cse.cuhk.edu.hk/~lyu/book/reliability/}
 }
 
-\author{ Andreas Wittmann \email{andreas\_wittmann@gmx.de}}}
+\author{Andreas Wittmann \email{andreas\_wittmann@gmx.de}}
 
 \seealso{\code{\link{duane.plot}}, \code{\link{littlewood.verall.plot}}, 
          \code{\link{moranda.geometric.plot}}, \code{\link{musa.okumoto.plot}}, 
